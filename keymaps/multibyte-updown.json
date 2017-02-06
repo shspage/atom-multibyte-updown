@@ -1,0 +1,6 @@
+{
+  "atom-text-editor": {
+    "up":"multibyte-updown:up",
+    "down":"multibyte-updown:down"
+  }
+}
